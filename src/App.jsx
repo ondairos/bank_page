@@ -1,6 +1,8 @@
 import React from "react";
 import styles from "./style.js";
 
+import Navbar from './components/Navbar'
+
 const App = () => {
   return (
     <div className="bg-primary w-full overflow-hidden">
